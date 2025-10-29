@@ -1,5 +1,5 @@
 import type { todo } from "../types/todo";
-
+//laver et array med dummy data så der altid er noget i todo listen
 export const dummyData:todo[] = [
     {
         id: 1,
